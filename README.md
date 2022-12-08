@@ -79,6 +79,7 @@ near call (SUCUENTA TESTNET) setProfesor '{"NOMBREC" : "JUan", "idC":"02"}' --ac
 
 - [CARLOS HERNANDEZ](https://github.com/carlos-chrs) | lider de equipo
 - [ANDRE EMMANUEL ](https://github.com/AndreLuna6)   | sublider de equipo
+- [ABRAHAM REYES] (https://github.com/Abraham890)    | Programador
 
 
 
